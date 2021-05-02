@@ -1,0 +1,5 @@
+#Ignoring pyc files
+
+__pycache__
+.idea/
+venv/
