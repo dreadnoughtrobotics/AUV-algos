@@ -7,19 +7,19 @@ Link: https://github.com/wangyanckxx/Enhancement-of-Underwater-Images-with-Stati
 
 Here is the list of libraries you need to install to execute the code:
 
-'''python = 3.6'''
+```python = 3.6```
 
-'''cv2'''
+```cv2```
 
-'''numpy'''
+```numpy```
 
-'''scipy'''
+```scipy```
 
-'''matplotlib'''
+```matplotlib```
 
-'''scikit-image'''
+```scikit-image```
 
-'''natsort'''
+```natsort```
 
 
 
